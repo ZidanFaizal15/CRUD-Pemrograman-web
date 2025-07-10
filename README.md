@@ -10,7 +10,7 @@ Aplikasi web sederhana untuk jual beli barang bekas. Dibuat menggunakan bahasa p
 * ✅ **CRUD Produk** (Tambah, Lihat, Edit, Hapus)
 * ✅ **Upload Gambar Produk**
 * ✅ **Login & Registrasi User**
-* ✅ **Export ke PDF & Excel**
+* ✅ **Export ke PDF**
 * ✅ **Bootstrap untuk Tampilan Responsive**
 
 ---
@@ -87,7 +87,7 @@ Buka di browser: [http://localhost:8080](http://localhost:8080)
 * [Gin](https://github.com/gin-gonic/gin)
 * [GORM](https://gorm.io)
 * [GoFPDF](https://github.com/jung-kurt/gofpdf) - untuk cetak PDF
-* [Excelize](https://github.com/xuri/excelize) - untuk export Excel
+* [Excelize](https://github.com/xuri/excelize) - untuk export Excel (Tombol tidak tersedia untuk sekarang)
 * [Bootstrap CDN](https://getbootstrap.com)
 
 ---
